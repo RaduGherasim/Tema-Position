@@ -27,7 +27,7 @@ header {
 }
 
 article {
-    border-top: 1.12rem solid var white;
+    border-top: 3.12rem solid var white;
     border-bottom: 0.12rem solid white;
     color: var(--white);
     position: fixed;
